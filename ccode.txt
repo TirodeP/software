@@ -25,6 +25,8 @@ int main() {
     // operator doesn't match any case constant
     default:
       printf("Error! operator is not correct");
+
+printf("This is a test c code for github and i'm making changes to the file in a branch and commiting");
   }
 
   return 0;
